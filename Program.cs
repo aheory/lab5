@@ -28,7 +28,10 @@ while (true)
             b = Convert.ToDouble(Console.ReadLine());
             break;
         case ConsoleKey.D3:
-        
+        case ConsoleKey.NumPad3:
+            Console.WriteLine($"\nРезультат операции «+»: {a} + {b} = {a + b}");
+            Console.ReadKey();
+            break;
         case ConsoleKey.D7:
         case ConsoleKey.NumPad7:
             return;
