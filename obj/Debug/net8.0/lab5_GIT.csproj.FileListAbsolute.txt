@@ -1,0 +1,15 @@
+C:\Users\midor\Desktop\далги\lab5_GIT\bin\Debug\net8.0\lab5_GIT.exe
+C:\Users\midor\Desktop\далги\lab5_GIT\bin\Debug\net8.0\lab5_GIT.deps.json
+C:\Users\midor\Desktop\далги\lab5_GIT\bin\Debug\net8.0\lab5_GIT.runtimeconfig.json
+C:\Users\midor\Desktop\далги\lab5_GIT\bin\Debug\net8.0\lab5_GIT.dll
+C:\Users\midor\Desktop\далги\lab5_GIT\bin\Debug\net8.0\lab5_GIT.pdb
+C:\Users\midor\Desktop\далги\lab5_GIT\obj\Debug\net8.0\lab5_GIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midor\Desktop\далги\lab5_GIT\obj\Debug\net8.0\lab5_GIT.AssemblyInfoInputs.cache
+C:\Users\midor\Desktop\далги\lab5_GIT\obj\Debug\net8.0\lab5_GIT.AssemblyInfo.cs
+C:\Users\midor\Desktop\далги\lab5_GIT\obj\Debug\net8.0\lab5_GIT.csproj.CoreCompileInputs.cache
+C:\Users\midor\Desktop\далги\lab5_GIT\obj\Debug\net8.0\lab5_GIT.sourcelink.json
+C:\Users\midor\Desktop\далги\lab5_GIT\obj\Debug\net8.0\lab5_GIT.dll
+C:\Users\midor\Desktop\далги\lab5_GIT\obj\Debug\net8.0\refint\lab5_GIT.dll
+C:\Users\midor\Desktop\далги\lab5_GIT\obj\Debug\net8.0\lab5_GIT.pdb
+C:\Users\midor\Desktop\далги\lab5_GIT\obj\Debug\net8.0\lab5_GIT.genruntimeconfig.cache
+C:\Users\midor\Desktop\далги\lab5_GIT\obj\Debug\net8.0\ref\lab5_GIT.dll
