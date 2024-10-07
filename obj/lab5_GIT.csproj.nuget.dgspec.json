@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\midor\\Desktop\\далги\\lab5_GIT\\lab5_GIT.csproj": {}
+    "C:\\Users\\midor\\desktop\\далги\\lab5_GIT\\lab5_GIT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\midor\\Desktop\\далги\\lab5_GIT\\lab5_GIT.csproj": {
+    "C:\\Users\\midor\\desktop\\далги\\lab5_GIT\\lab5_GIT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\midor\\Desktop\\далги\\lab5_GIT\\lab5_GIT.csproj",
+        "projectUniqueName": "C:\\Users\\midor\\desktop\\далги\\lab5_GIT\\lab5_GIT.csproj",
         "projectName": "lab5_GIT",
-        "projectPath": "C:\\Users\\midor\\Desktop\\далги\\lab5_GIT\\lab5_GIT.csproj",
+        "projectPath": "C:\\Users\\midor\\desktop\\далги\\lab5_GIT\\lab5_GIT.csproj",
         "packagesPath": "C:\\Users\\midor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\midor\\Desktop\\далги\\lab5_GIT\\obj\\",
+        "outputPath": "C:\\Users\\midor\\desktop\\далги\\lab5_GIT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
