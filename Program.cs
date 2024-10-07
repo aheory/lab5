@@ -32,6 +32,11 @@ while (true)
             Console.WriteLine($"\nРезультат операции «+»: {a} + {b} = {a + b}");
             Console.ReadKey();
             break;
+        case ConsoleKey.D4:
+        case ConsoleKey.NumPad4:
+            Console.WriteLine($"\nРезультат операции «-»: {a} - {b} = {a - b}");
+            Console.ReadKey();
+            break;
         case ConsoleKey.D7:
         case ConsoleKey.NumPad7:
             return;
